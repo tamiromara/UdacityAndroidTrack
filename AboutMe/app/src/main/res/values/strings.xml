@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">User Name</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, My name is User Name
+        \n\nsome Contrary to popular belief, Lorem Ipsum is not simply random text.
+        \n\nIt has roots in a piece of classical
+        \nLatin literature from 45 BC, making it over 2000 years old.
+        \n\nRichard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up
+        \n\none of the more obscure Latin words, consectetur, from a Lorem Ipsum
+        \npassage, and going through the cites of the word in classical literature, discovered the undoubtable source.\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
